@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/googleapis/python-pubsublite/compare/v1.3.0...v1.4.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#291](https://github.com/googleapis/python-pubsublite/issues/291)) ([f0d65ca](https://github.com/googleapis/python-pubsublite/commit/f0d65ca7b1efec9eae2dda1481c4bfe978eaa2dd))
+
 ## [1.3.0](https://www.github.com/googleapis/python-pubsublite/compare/v1.2.0...v1.3.0) (2022-01-06)
 
 
